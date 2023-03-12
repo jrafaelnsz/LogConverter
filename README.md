@@ -18,6 +18,7 @@ You have been hired by iTaaS Solution to develop a system that can convert log f
 the desired format, which means that at this moment they need to convert them from
 the “MINHA CDN” format to the “Agora” format.
 This is a sample log file in the “MINHA CDN” format:
+
 312|200|HIT|"GET /robots.txt HTTP/1.1"|100.2
 101|200|MISS|"POST /myImages HTTP/1.1"|319.4
 199|404|MISS|"GET /not-found HTTP/1.1"|142.9
